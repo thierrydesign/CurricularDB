@@ -9,7 +9,6 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 	    public void addViewControllers(ViewControllerRegistry registry) {
 	    	registry.addViewController("/home.html").setViewName("home");
-	        registry.addViewController("/login").setViewName("login");
 	        registry.addViewController("/curriculo.html").setViewName("curriculo");
 	        registry.addViewController("/curso.html").setViewName("curso");
 	        registry.addViewController("/guia.html").setViewName("guia");
