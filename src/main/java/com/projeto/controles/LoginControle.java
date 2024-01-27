@@ -17,7 +17,7 @@ public class LoginControle {
 
     @GetMapping("/login")
     public String login() {
-        return "/login";
+        return "/login.hmtl";
     }
 
 }
