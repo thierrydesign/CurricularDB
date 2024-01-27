@@ -1,6 +1,5 @@
 # Projeto Curricular
 
-## Site
 [Link do deploy](https://curricular-site.onrender.com/home.html)
  
 ## Visão Geral
