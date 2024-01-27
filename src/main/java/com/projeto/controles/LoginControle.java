@@ -15,9 +15,9 @@ public class LoginControle {
 
    
 
-    @GetMapping("/login")
-    public String login() {
-        return "/login";
-    }
+	@GetMapping("/login")
+	public String login() {
+	    return "login";  // Sem a barra inicial
+	}
 
 }
