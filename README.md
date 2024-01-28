@@ -1,5 +1,10 @@
 # Projeto Curricular
 
+# Modelagem - Curricular
+
+[Link da modelagem](https://drive.google.com/drive/folders/1Mb0td325phClsEKgjZcaCj-p_tGGf1qW?usp=sharing)
+
+
 [Link do deploy](https://curricular-site.onrender.com/home.html)
  
 ## Visão Geral
